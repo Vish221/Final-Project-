@@ -1,4 +1,4 @@
-## finalproject:Future ready talent project by Vishvesh Pratap Singh.
+## finalproject: project by Vishvesh Pratap Singh.
 In my website I create food restaurant web store that help to find cheap rate and good quality food to help the people to fulfill their desired needs and hungry
 
 ## azure link   https://orange-mud-09d420a10.1.azurestaticapps.net
@@ -33,8 +33,6 @@ In my website I create food restaurant web store that help to find cheap rate an
 ![Screenshot 2022-07-13 111138](https://user-images.githubusercontent.com/89351301/178659331-cc6fbbf1-67da-46d7-aa81-73752e6b6ed0.png)
 ![Screenshot 2022-07-13 111200](https://user-images.githubusercontent.com/89351301/178659340-37ff0e79-9b61-4beb-b7ce-2624838f0c7f.png)
 
-## you tube video that i make to show my project:
- https://youtu.be/cJL8S3QpRWw
 
 ## azure portal screen shot
 ![Screenshot 2022-07-13 111503](https://user-images.githubusercontent.com/89351301/178659668-df2895f4-2883-42d5-a554-eff7f85980aa.png)
